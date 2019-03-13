@@ -5,4 +5,8 @@
   <servlet-class>s1</servlet-class>
   <servlet-name>abcd</servlet-name>
   </servlet>
+   <servlet>
+  <servlet-class>s4</servlet-class>
+  <servlet-name>abcddff</servlet-name>
+  </servlet>
 </web-app>
